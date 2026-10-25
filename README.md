@@ -136,10 +136,6 @@ open up you local host and port
 
 # AZURE-CICD-Deployment-with-Github-Actions
 
-## Save pass:
-
-300hArW0pYximHt25za12mR7sJJ3OjWvdoyGEgRnsIUHZEmh4eF0JQQJ99CFACPV0roEqg7NAAACAZCRKX2c
-
 ## Run from terminal:
 
 docker build -t chickenai-bfd5ffaccagwhrhy.azurecr.io/chicken:latest .
